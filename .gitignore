@@ -1,2 +1,5 @@
 /.metadata/
 .idea/
+habichte-scouting-api-app/target/
+habichte-scouting-api-server/target/
+*.iml

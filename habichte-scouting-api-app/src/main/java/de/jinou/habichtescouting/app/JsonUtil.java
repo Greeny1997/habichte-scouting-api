@@ -14,7 +14,8 @@ package de.jinou.habichtescouting.app;
 
 import com.google.gson.*;
 import com.google.gson.reflect.TypeToken;
-import io.swagger.client.model.*;
+import de.jinou.habichtescouting.app.model.Scout;
+import de.jinou.habichtescouting.app.model.Spieler;
 
 import java.lang.reflect.Type;
 import java.util.Date;

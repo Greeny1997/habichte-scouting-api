@@ -12,7 +12,7 @@
 
 package de.jinou.habichtescouting.app.auth;
 
-import io.swagger.client.Pair;
+import de.jinou.habichtescouting.app.Pair;
 
 import java.util.List;
 import java.util.Map;

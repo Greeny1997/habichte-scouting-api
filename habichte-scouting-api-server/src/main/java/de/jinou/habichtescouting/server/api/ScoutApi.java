@@ -5,8 +5,8 @@
  */
 package de.jinou.habichtescouting.server.api;
 
+import de.jinou.habichtescouting.server.model.Scout;
 import io.swagger.annotations.*;
-import io.swagger.model.Scout;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

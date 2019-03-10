@@ -14,11 +14,10 @@ package de.jinou.habichtescouting.app.api;
 
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
-import io.swagger.client.ApiException;
-import io.swagger.client.ApiInvoker;
-import io.swagger.client.Pair;
-import io.swagger.client.model.*;
-import io.swagger.client.model.Scout;
+import de.jinou.habichtescouting.app.ApiException;
+import de.jinou.habichtescouting.app.ApiInvoker;
+import de.jinou.habichtescouting.app.Pair;
+import de.jinou.habichtescouting.app.model.Scout;
 import org.apache.http.HttpEntity;
 import org.apache.http.entity.mime.MultipartEntityBuilder;
 

@@ -6,6 +6,7 @@
 
     <groupId>habichte-scouting-api</groupId>
     <artifactId>habichte-scouting-api-app</artifactId>
+    <packaging>jar</packaging>
     <version>1.0.0</version>
 
     <dependencies>

@@ -5,8 +5,8 @@
  */
 package de.jinou.habichtescouting.server.api;
 
+import de.jinou.habichtescouting.server.model.Spieler;
 import io.swagger.annotations.*;
-import io.swagger.model.Spieler;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
